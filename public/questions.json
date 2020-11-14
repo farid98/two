@@ -1,0 +1,42 @@
+[
+    {
+        "statement": "When shall the evil empire fall",
+        "answer": [
+            "in due time",
+            "tomorrow",
+            "next year",
+            "never"
+        ],
+        "correct": "1"
+    },
+    {
+        "statement": "Will we ever be sure of anything ?",
+        "answer": [
+            "it is highly unlikely",
+            "define sure",
+            "no",
+            "some day, perhaps - or perhaps not"
+        ],
+        "correct": "3"
+    },
+    {
+        "statement": "What did the emporer do next",
+        "answer": [
+            "whatever ",
+            "nothing",
+            "everything",
+            "something"
+        ],
+        "correct": "2"
+    },
+    {
+        "statement": "When shall we three meet again",
+        "answer": [
+            "in thunder ",
+            "lightening",
+            "or in rain",
+            "probably never"
+        ],
+        "correct": "4"
+    }
+]
