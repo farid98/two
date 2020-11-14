@@ -55,8 +55,15 @@
 
 <main>
 
-  <div class="title">Farid Quiz 2</div>
-
+  <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          Ziss iz ze Quizzz
+        </h1>
+      </div>
+    </div>
+  </section>
   {#await fetchData()}
     <p>loading</p>
   {:then allQuestions}
