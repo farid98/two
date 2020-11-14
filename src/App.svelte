@@ -54,7 +54,8 @@
 </style>
 
 <main>
-  
+
+  <div class="title">Farid Quiz 2</div>
 
   {#await fetchData()}
     <p>loading</p>
